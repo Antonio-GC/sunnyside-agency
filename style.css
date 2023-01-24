@@ -42,9 +42,9 @@ html {
     background-image: url(/images/mobile/image-header.jpg);
 background-repeat: no-repeat;
 background-size: cover;
-background-position: top;
-background-attachment:fixed ;
-min-height: 60rem;
+background-attachment: fixed;
+background-position: center bottom;
+min-height: 100vh;
 position: relative;
 }
 
